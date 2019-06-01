@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debugability Principles on Gov&#39;s Programming Thoughts</title>
+    <link>http://govenlock.com/tags/debugability-principles/</link>
+    <description>Recent content in Debugability Principles on Gov&#39;s Programming Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://govenlock.com/tags/debugability-principles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Make all processes repeatable</title>
+      <link>http://govenlock.com/blog/make-all-processes-repeatable/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://govenlock.com/blog/make-all-processes-repeatable/</guid>
+      <description>You should aim to make every process quick and easy to repeat with the same inputs and state.</description>
+    </item>
+    
+    <item>
+      <title>Record all I/O</title>
+      <link>http://govenlock.com/blog/record-all-i-o/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://govenlock.com/blog/record-all-i-o/</guid>
+      <description>You should log or record all input and output from the software.</description>
+    </item>
+    
+  </channel>
+</rss>
