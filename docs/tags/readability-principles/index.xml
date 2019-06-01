@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Readability Principles on Gov&#39;s Programming Thoughts</title>
-    <link>www.govenlock.com/tags/readability-principles/</link>
+    <link>https://www.govenlock.com/tags/readability-principles/</link>
     <description>Recent content in Readability Principles on Gov&#39;s Programming Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.govenlock.com/tags/readability-principles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.govenlock.com/tags/readability-principles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Make your code readable</title>
-      <link>www.govenlock.com/blog/make-your-code-readable/</link>
+      <link>https://www.govenlock.com/blog/make-your-code-readable/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/make-your-code-readable/</guid>
+      <guid>https://www.govenlock.com/blog/make-your-code-readable/</guid>
       <description>Readability is king. As a developer you will spend more time reading and understanding code than you will writing code.</description>
     </item>
     
     <item>
       <title>The Principle of Least Surprise</title>
-      <link>www.govenlock.com/blog/the-principle-of-least-surprise/</link>
+      <link>https://www.govenlock.com/blog/the-principle-of-least-surprise/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/the-principle-of-least-surprise/</guid>
+      <guid>https://www.govenlock.com/blog/the-principle-of-least-surprise/</guid>
       <description>The functionality of a system should not be surprising. It should be as mundane as possible.</description>
     </item>
     

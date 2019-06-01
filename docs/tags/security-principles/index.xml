@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security Principles on Gov&#39;s Programming Thoughts</title>
-    <link>www.govenlock.com/tags/security-principles/</link>
+    <link>https://www.govenlock.com/tags/security-principles/</link>
     <description>Recent content in Security Principles on Gov&#39;s Programming Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.govenlock.com/tags/security-principles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.govenlock.com/tags/security-principles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>There is no security through obscurity</title>
-      <link>www.govenlock.com/blog/there-is-no-security-through-obscurity/</link>
+      <link>https://www.govenlock.com/blog/there-is-no-security-through-obscurity/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/there-is-no-security-through-obscurity/</guid>
+      <guid>https://www.govenlock.com/blog/there-is-no-security-through-obscurity/</guid>
       <description>Never rely on the implementation details being a secret.</description>
     </item>
     
     <item>
       <title>Never trust the client</title>
-      <link>www.govenlock.com/blog/never-trust-the-client/</link>
+      <link>https://www.govenlock.com/blog/never-trust-the-client/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/never-trust-the-client/</guid>
+      <guid>https://www.govenlock.com/blog/never-trust-the-client/</guid>
       <description>Never trust any input which comes from a source you do not control.</description>
     </item>
     

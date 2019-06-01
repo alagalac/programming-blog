@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gov&#39;s Programming Thoughts</title>
-    <link>www.govenlock.com/</link>
+    <link>https://www.govenlock.com/</link>
     <description>Recent content on Gov&#39;s Programming Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="www.govenlock.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.govenlock.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Software Principles</title>
-      <link>www.govenlock.com/articles/software-principles/</link>
+      <link>https://www.govenlock.com/articles/software-principles/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/articles/software-principles/</guid>
+      <guid>https://www.govenlock.com/articles/software-principles/</guid>
       <description>Good software is one of those things where you&amp;rsquo;ll know it when you see it. However it can be difficult to describe.
 That&amp;rsquo;s not very useful to help us judge whether software is of good quality or not. We need some criteria against which we can determine whether the the software we are building is of good quality. This also gives us something that we can aim for.
 Here I&amp;rsquo;ll run through what I think are the main qualities of &amp;ldquo;good&amp;rdquo; software.</description>
@@ -24,208 +24,208 @@ Here I&amp;rsquo;ll run through what I think are the main qualities of &amp;ldqu
     
     <item>
       <title>There is no security through obscurity</title>
-      <link>www.govenlock.com/blog/there-is-no-security-through-obscurity/</link>
+      <link>https://www.govenlock.com/blog/there-is-no-security-through-obscurity/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/there-is-no-security-through-obscurity/</guid>
+      <guid>https://www.govenlock.com/blog/there-is-no-security-through-obscurity/</guid>
       <description>Never rely on the implementation details being a secret.</description>
     </item>
     
     <item>
       <title>Never trust the client</title>
-      <link>www.govenlock.com/blog/never-trust-the-client/</link>
+      <link>https://www.govenlock.com/blog/never-trust-the-client/</link>
       <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/never-trust-the-client/</guid>
+      <guid>https://www.govenlock.com/blog/never-trust-the-client/</guid>
       <description>Never trust any input which comes from a source you do not control.</description>
     </item>
     
     <item>
       <title>Conducting effective code reviews</title>
-      <link>www.govenlock.com/blog/conducting-effective-code-reviews/</link>
+      <link>https://www.govenlock.com/blog/conducting-effective-code-reviews/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/conducting-effective-code-reviews/</guid>
+      <guid>https://www.govenlock.com/blog/conducting-effective-code-reviews/</guid>
       <description>Code reviews are an important control in the development process to ensure that the end code is of a high quality, and to catch bugs early.</description>
     </item>
     
     <item>
       <title>Make your code readable</title>
-      <link>www.govenlock.com/blog/make-your-code-readable/</link>
+      <link>https://www.govenlock.com/blog/make-your-code-readable/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/make-your-code-readable/</guid>
+      <guid>https://www.govenlock.com/blog/make-your-code-readable/</guid>
       <description>Readability is king. As a developer you will spend more time reading and understanding code than you will writing code.</description>
     </item>
     
     <item>
       <title>Tell, don&#39;t ask</title>
-      <link>www.govenlock.com/blog/tell-dont-ask/</link>
+      <link>https://www.govenlock.com/blog/tell-dont-ask/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/tell-dont-ask/</guid>
+      <guid>https://www.govenlock.com/blog/tell-dont-ask/</guid>
       <description>In good object oriented code, data should be bundled in the same class with the functions which operate on that data.</description>
     </item>
     
     <item>
       <title>The Dependency Inversion Principle</title>
-      <link>www.govenlock.com/blog/the-dependency-inversion-principle/</link>
+      <link>https://www.govenlock.com/blog/the-dependency-inversion-principle/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/the-dependency-inversion-principle/</guid>
+      <guid>https://www.govenlock.com/blog/the-dependency-inversion-principle/</guid>
       <description>Objects should depend upon abstractions and not concrete implementations of their dependencies.</description>
     </item>
     
     <item>
       <title>Make all processes repeatable</title>
-      <link>www.govenlock.com/blog/make-all-processes-repeatable/</link>
+      <link>https://www.govenlock.com/blog/make-all-processes-repeatable/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/make-all-processes-repeatable/</guid>
+      <guid>https://www.govenlock.com/blog/make-all-processes-repeatable/</guid>
       <description>You should aim to make every process quick and easy to repeat with the same inputs and state.</description>
     </item>
     
     <item>
       <title>The Reused Abstractions Principle</title>
-      <link>www.govenlock.com/blog/the-reused-abstractions-principle/</link>
+      <link>https://www.govenlock.com/blog/the-reused-abstractions-principle/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/the-reused-abstractions-principle/</guid>
+      <guid>https://www.govenlock.com/blog/the-reused-abstractions-principle/</guid>
       <description>Your interfaces should be higher level generalised abstractions.</description>
     </item>
     
     <item>
       <title>The Interface Segregation Principle</title>
-      <link>www.govenlock.com/blog/the-interface-segregation-principle/</link>
+      <link>https://www.govenlock.com/blog/the-interface-segregation-principle/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/the-interface-segregation-principle/</guid>
+      <guid>https://www.govenlock.com/blog/the-interface-segregation-principle/</guid>
       <description>Objects should implement multiple specific interfaces rather than large catch-all interfaces.</description>
     </item>
     
     <item>
       <title>The Reuse/Release Equivalency Principle</title>
-      <link>www.govenlock.com/blog/the-reuse-release-equivalency-principle/</link>
+      <link>https://www.govenlock.com/blog/the-reuse-release-equivalency-principle/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/the-reuse-release-equivalency-principle/</guid>
+      <guid>https://www.govenlock.com/blog/the-reuse-release-equivalency-principle/</guid>
       <description>If you&amp;rsquo;re going to depend upon or reuse a piece of functionality, then it should be a released library.</description>
     </item>
     
     <item>
       <title>What is good software?</title>
-      <link>www.govenlock.com/blog/what-is-good-software/</link>
+      <link>https://www.govenlock.com/blog/what-is-good-software/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/what-is-good-software/</guid>
+      <guid>https://www.govenlock.com/blog/what-is-good-software/</guid>
       <description>Good software is often difficult to describe.</description>
     </item>
     
     <item>
       <title>The Liskov Substitution Principle</title>
-      <link>www.govenlock.com/blog/the-liskov-substitution-principle/</link>
+      <link>https://www.govenlock.com/blog/the-liskov-substitution-principle/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/the-liskov-substitution-principle/</guid>
+      <guid>https://www.govenlock.com/blog/the-liskov-substitution-principle/</guid>
       <description>Any object implementing an interface must be substitutable with every other object which also implements that interface.</description>
     </item>
     
     <item>
       <title>The Principle of Least Surprise</title>
-      <link>www.govenlock.com/blog/the-principle-of-least-surprise/</link>
+      <link>https://www.govenlock.com/blog/the-principle-of-least-surprise/</link>
       <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/the-principle-of-least-surprise/</guid>
+      <guid>https://www.govenlock.com/blog/the-principle-of-least-surprise/</guid>
       <description>The functionality of a system should not be surprising. It should be as mundane as possible.</description>
     </item>
     
     <item>
       <title>Record all I/O</title>
-      <link>www.govenlock.com/blog/record-all-i-o/</link>
+      <link>https://www.govenlock.com/blog/record-all-i-o/</link>
       <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/record-all-i-o/</guid>
+      <guid>https://www.govenlock.com/blog/record-all-i-o/</guid>
       <description>You should log or record all input and output from the software.</description>
     </item>
     
     <item>
       <title>The Open/Closed Principle</title>
-      <link>www.govenlock.com/blog/the-open-closed-principle/</link>
+      <link>https://www.govenlock.com/blog/the-open-closed-principle/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/the-open-closed-principle/</guid>
+      <guid>https://www.govenlock.com/blog/the-open-closed-principle/</guid>
       <description>An object should be open for extension, but closed for modification.</description>
     </item>
     
     <item>
       <title>Data Migrations</title>
-      <link>www.govenlock.com/blog/data-migrations/</link>
+      <link>https://www.govenlock.com/blog/data-migrations/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/data-migrations/</guid>
+      <guid>https://www.govenlock.com/blog/data-migrations/</guid>
       <description>Data migrations are one of the most complex and potentially dangerous operations which can be done in software development.</description>
     </item>
     
     <item>
       <title>Keep It Simple Stupid</title>
-      <link>www.govenlock.com/blog/keep-it-simple-stupid/</link>
+      <link>https://www.govenlock.com/blog/keep-it-simple-stupid/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/keep-it-simple-stupid/</guid>
+      <guid>https://www.govenlock.com/blog/keep-it-simple-stupid/</guid>
       <description>When writing software, simplicity beats cleverness every time.</description>
     </item>
     
     <item>
       <title>The Single Responsibility Principle</title>
-      <link>www.govenlock.com/blog/the-single-responsibility-principle/</link>
+      <link>https://www.govenlock.com/blog/the-single-responsibility-principle/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/the-single-responsibility-principle/</guid>
+      <guid>https://www.govenlock.com/blog/the-single-responsibility-principle/</guid>
       <description>All objects should have a clear and singular reason to exist, and hence a clear and singular reason to change (be rewritten).</description>
     </item>
     
     <item>
       <title>Occam&#39;s Razor</title>
-      <link>www.govenlock.com/blog/occams-razor/</link>
+      <link>https://www.govenlock.com/blog/occams-razor/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/occams-razor/</guid>
+      <guid>https://www.govenlock.com/blog/occams-razor/</guid>
       <description>Always choose the solution with the fewest assumptions.</description>
     </item>
     
     <item>
       <title>The SOLID Principles</title>
-      <link>www.govenlock.com/blog/the-solid-principles/</link>
+      <link>https://www.govenlock.com/blog/the-solid-principles/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/the-solid-principles/</guid>
+      <guid>https://www.govenlock.com/blog/the-solid-principles/</guid>
       <description>The SOLID priciples are a good guide for creating maintainable applications.</description>
     </item>
     
     <item>
       <title>You Aren&#39;t Going To Need It</title>
-      <link>www.govenlock.com/blog/you-arent-going-to-need-it/</link>
+      <link>https://www.govenlock.com/blog/you-arent-going-to-need-it/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/you-arent-going-to-need-it/</guid>
+      <guid>https://www.govenlock.com/blog/you-arent-going-to-need-it/</guid>
       <description>You should not work on new functionality before there is a requirement for it.</description>
     </item>
     
     <item>
       <title>Don&#39;t Repeat Yourself</title>
-      <link>www.govenlock.com/blog/dont-repeat-yourself/</link>
+      <link>https://www.govenlock.com/blog/dont-repeat-yourself/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/dont-repeat-yourself/</guid>
+      <guid>https://www.govenlock.com/blog/dont-repeat-yourself/</guid>
       <description>In the application there should always be a single source of truth for how every piece of functionality should work.</description>
     </item>
     
     <item>
       <title>Why have principles?</title>
-      <link>www.govenlock.com/blog/why-have-principles/</link>
+      <link>https://www.govenlock.com/blog/why-have-principles/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>www.govenlock.com/blog/why-have-principles/</guid>
+      <guid>https://www.govenlock.com/blog/why-have-principles/</guid>
       <description>What purpose do software principles serve, and why do we have them?</description>
     </item>
     
