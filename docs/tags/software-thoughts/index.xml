@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software Thoughts on Gov&#39;s Programming Thoughts</title>
-    <link>https://alagalac.github.io/programming-blog/tags/software-thoughts/</link>
+    <link>www.govenlock.com/tags/software-thoughts/</link>
     <description>Recent content in Software Thoughts on Gov&#39;s Programming Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://alagalac.github.io/programming-blog/tags/software-thoughts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.govenlock.com/tags/software-thoughts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Software Principles</title>
-      <link>https://alagalac.github.io/programming-blog/articles/software-principles/</link>
+      <link>www.govenlock.com/articles/software-principles/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://alagalac.github.io/programming-blog/articles/software-principles/</guid>
+      <guid>www.govenlock.com/articles/software-principles/</guid>
       <description>Good software is one of those things where you&amp;rsquo;ll know it when you see it. However it can be difficult to describe.
 That&amp;rsquo;s not very useful to help us judge whether software is of good quality or not. We need some criteria against which we can determine whether the the software we are building is of good quality. This also gives us something that we can aim for.
 Here I&amp;rsquo;ll run through what I think are the main qualities of &amp;ldquo;good&amp;rdquo; software.</description>
@@ -24,37 +24,37 @@ Here I&amp;rsquo;ll run through what I think are the main qualities of &amp;ldqu
     
     <item>
       <title>Conducting effective code reviews</title>
-      <link>https://alagalac.github.io/programming-blog/blog/conducting-effective-code-reviews/</link>
+      <link>www.govenlock.com/blog/conducting-effective-code-reviews/</link>
       <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://alagalac.github.io/programming-blog/blog/conducting-effective-code-reviews/</guid>
+      <guid>www.govenlock.com/blog/conducting-effective-code-reviews/</guid>
       <description>Code reviews are an important control in the development process to ensure that the end code is of a high quality, and to catch bugs early.</description>
     </item>
     
     <item>
       <title>What is good software?</title>
-      <link>https://alagalac.github.io/programming-blog/blog/what-is-good-software/</link>
+      <link>www.govenlock.com/blog/what-is-good-software/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://alagalac.github.io/programming-blog/blog/what-is-good-software/</guid>
+      <guid>www.govenlock.com/blog/what-is-good-software/</guid>
       <description>Good software is often difficult to describe.</description>
     </item>
     
     <item>
       <title>Data Migrations</title>
-      <link>https://alagalac.github.io/programming-blog/blog/data-migrations/</link>
+      <link>www.govenlock.com/blog/data-migrations/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://alagalac.github.io/programming-blog/blog/data-migrations/</guid>
+      <guid>www.govenlock.com/blog/data-migrations/</guid>
       <description>Data migrations are one of the most complex and potentially dangerous operations which can be done in software development.</description>
     </item>
     
     <item>
       <title>Why have principles?</title>
-      <link>https://alagalac.github.io/programming-blog/blog/why-have-principles/</link>
+      <link>www.govenlock.com/blog/why-have-principles/</link>
       <pubDate>Sat, 21 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://alagalac.github.io/programming-blog/blog/why-have-principles/</guid>
+      <guid>www.govenlock.com/blog/why-have-principles/</guid>
       <description>What purpose do software principles serve, and why do we have them?</description>
     </item>
     

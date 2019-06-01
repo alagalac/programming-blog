@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maintenance Principles on Gov&#39;s Programming Thoughts</title>
-    <link>https://alagalac.github.io/programming-blog/tags/maintenance-principles/</link>
+    <link>www.govenlock.com/tags/maintenance-principles/</link>
     <description>Recent content in Maintenance Principles on Gov&#39;s Programming Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://alagalac.github.io/programming-blog/tags/maintenance-principles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.govenlock.com/tags/maintenance-principles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tell, don&#39;t ask</title>
-      <link>https://alagalac.github.io/programming-blog/blog/tell-dont-ask/</link>
+      <link>www.govenlock.com/blog/tell-dont-ask/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://alagalac.github.io/programming-blog/blog/tell-dont-ask/</guid>
+      <guid>www.govenlock.com/blog/tell-dont-ask/</guid>
       <description>In good object oriented code, data should be bundled in the same class with the functions which operate on that data.</description>
     </item>
     
     <item>
       <title>You Aren&#39;t Going To Need It</title>
-      <link>https://alagalac.github.io/programming-blog/blog/you-arent-going-to-need-it/</link>
+      <link>www.govenlock.com/blog/you-arent-going-to-need-it/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://alagalac.github.io/programming-blog/blog/you-arent-going-to-need-it/</guid>
+      <guid>www.govenlock.com/blog/you-arent-going-to-need-it/</guid>
       <description>You should not work on new functionality before there is a requirement for it.</description>
     </item>
     
