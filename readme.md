@@ -2,6 +2,8 @@
 
 Welcome to my software development blog.
 
+The blog is available at [https://alagalac.github.io/programming-blog/](https://alagalac.github.io/programming-blog/).
+
 ## How to build
 
 1. Install Hugo
