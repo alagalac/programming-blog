@@ -1,0 +1,37 @@
+baseURL = "http://govenlock.com/"
+languageCode = "en-us"
+title = "Gov's Programming Thoughts"
+theme = "hugo-principles"
+publishDir = "docs"
+
+
+[[menu.main]]
+  name = "Security Principles"
+  weight = 1
+  identifier = "blog"
+  url = "/tags/security-principles"
+[[menu.main]]
+  name = "Debugability Principles"
+  weight = 2
+  identifier = "blog2"
+  url = "/tags/debugability-principles"
+[[menu.main]]
+  name = "Readability Principles"
+  weight = 3
+  identifier = "blog3"
+  url = "/tags/readability-principles"
+[[menu.main]]
+  name = "Maintainability Principles"
+  weight = 4
+  identifier = "blog4"
+  url = "/tags/maintainability-principles"
+[[menu.main]]
+  name = "Performance Principles"
+  weight = 5
+  identifier = "blog5"
+  url = "/tags/performance-principles"
+[[menu.main]]
+  name = "Software Thoughts"
+  weight = 6
+  identifier = "blog6"
+  url = "/tags/software-thoughts"
