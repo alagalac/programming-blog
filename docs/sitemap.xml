@@ -3,199 +3,199 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://govenlock.com/articles/</loc>
+    <loc>https://alagalac.github.io/programming-blog/articles/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://govenlock.com/</loc>
+    <loc>https://alagalac.github.io/programming-blog/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://govenlock.com/tags/security-principles/</loc>
+    <loc>https://alagalac.github.io/programming-blog/tags/security-principles/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://govenlock.com/articles/software-principles/</loc>
+    <loc>https://alagalac.github.io/programming-blog/articles/software-principles/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/tags/software-thoughts/</loc>
-    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://govenlock.com/tags/</loc>
+    <loc>https://alagalac.github.io/programming-blog/tags/software-thoughts/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/there-is-no-security-through-obscurity/</loc>
+    <loc>https://alagalac.github.io/programming-blog/tags/</loc>
+    <lastmod>2019-05-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alagalac.github.io/programming-blog/blog/there-is-no-security-through-obscurity/</loc>
     <lastmod>2019-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/never-trust-the-client/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/never-trust-the-client/</loc>
     <lastmod>2019-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/conducting-effective-code-reviews/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/conducting-effective-code-reviews/</loc>
     <lastmod>2019-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/tags/maintainability-principles/</loc>
+    <loc>https://alagalac.github.io/programming-blog/tags/maintainability-principles/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://govenlock.com/tags/maintenance-principles/</loc>
+    <loc>https://alagalac.github.io/programming-blog/tags/maintenance-principles/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/make-your-code-readable/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/make-your-code-readable/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/tags/readability-principles/</loc>
-    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://govenlock.com/tags/solid-principles/</loc>
+    <loc>https://alagalac.github.io/programming-blog/tags/readability-principles/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/tell-dont-ask/</loc>
+    <loc>https://alagalac.github.io/programming-blog/tags/solid-principles/</loc>
+    <lastmod>2018-12-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alagalac.github.io/programming-blog/blog/tell-dont-ask/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/the-dependency-inversion-principle/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/the-dependency-inversion-principle/</loc>
     <lastmod>2018-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/tags/debugability-principles/</loc>
+    <loc>https://alagalac.github.io/programming-blog/tags/debugability-principles/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/make-all-processes-repeatable/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/make-all-processes-repeatable/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/the-reused-abstractions-principle/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/the-reused-abstractions-principle/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/tags/maintainability-princplies/</loc>
+    <loc>https://alagalac.github.io/programming-blog/tags/maintainability-princplies/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/the-interface-segregation-principle/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/the-interface-segregation-principle/</loc>
     <lastmod>2018-10-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/the-reuse-release-equivalency-principle/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/the-reuse-release-equivalency-principle/</loc>
     <lastmod>2018-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/what-is-good-software/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/what-is-good-software/</loc>
     <lastmod>2018-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/the-liskov-substitution-principle/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/the-liskov-substitution-principle/</loc>
     <lastmod>2018-05-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/the-principle-of-least-surprise/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/the-principle-of-least-surprise/</loc>
     <lastmod>2018-05-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/record-all-i-o/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/record-all-i-o/</loc>
     <lastmod>2018-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/the-open-closed-principle/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/the-open-closed-principle/</loc>
     <lastmod>2018-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/data-migrations/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/data-migrations/</loc>
     <lastmod>2018-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/keep-it-simple-stupid/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/keep-it-simple-stupid/</loc>
     <lastmod>2018-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/the-single-responsibility-principle/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/the-single-responsibility-principle/</loc>
     <lastmod>2018-04-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/occams-razor/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/occams-razor/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/the-solid-principles/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/the-solid-principles/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/you-arent-going-to-need-it/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/you-arent-going-to-need-it/</loc>
     <lastmod>2018-04-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/dont-repeat-yourself/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/dont-repeat-yourself/</loc>
     <lastmod>2018-04-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/blog/why-have-principles/</loc>
+    <loc>https://alagalac.github.io/programming-blog/blog/why-have-principles/</loc>
     <lastmod>2018-04-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://govenlock.com/categories/</loc>
+    <loc>https://alagalac.github.io/programming-blog/categories/</loc>
     <priority>0</priority>
   </url>
   

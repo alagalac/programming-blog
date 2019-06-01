@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Gov&#39;s Programming Thoughts</title>
-    <link>http://govenlock.com/articles/</link>
+    <link>https://alagalac.github.io/programming-blog/articles/</link>
     <description>Recent content in Articles on Gov&#39;s Programming Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://govenlock.com/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alagalac.github.io/programming-blog/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Software Principles</title>
-      <link>http://govenlock.com/articles/software-principles/</link>
+      <link>https://alagalac.github.io/programming-blog/articles/software-principles/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/articles/software-principles/</guid>
+      <guid>https://alagalac.github.io/programming-blog/articles/software-principles/</guid>
       <description>Good software is one of those things where you&amp;rsquo;ll know it when you see it. However it can be difficult to describe.
 That&amp;rsquo;s not very useful to help us judge whether software is of good quality or not. We need some criteria against which we can determine whether the the software we are building is of good quality. This also gives us something that we can aim for.
 Here I&amp;rsquo;ll run through what I think are the main qualities of &amp;ldquo;good&amp;rdquo; software.</description>

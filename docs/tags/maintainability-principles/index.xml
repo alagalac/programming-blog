@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maintainability Principles on Gov&#39;s Programming Thoughts</title>
-    <link>http://govenlock.com/tags/maintainability-principles/</link>
+    <link>https://alagalac.github.io/programming-blog/tags/maintainability-principles/</link>
     <description>Recent content in Maintainability Principles on Gov&#39;s Programming Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://govenlock.com/tags/maintainability-principles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alagalac.github.io/programming-blog/tags/maintainability-principles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Dependency Inversion Principle</title>
-      <link>http://govenlock.com/blog/the-dependency-inversion-principle/</link>
+      <link>https://alagalac.github.io/programming-blog/blog/the-dependency-inversion-principle/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/blog/the-dependency-inversion-principle/</guid>
+      <guid>https://alagalac.github.io/programming-blog/blog/the-dependency-inversion-principle/</guid>
       <description>Objects should depend upon abstractions and not concrete implementations of their dependencies.</description>
     </item>
     
     <item>
       <title>The Reused Abstractions Principle</title>
-      <link>http://govenlock.com/blog/the-reused-abstractions-principle/</link>
+      <link>https://alagalac.github.io/programming-blog/blog/the-reused-abstractions-principle/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/blog/the-reused-abstractions-principle/</guid>
+      <guid>https://alagalac.github.io/programming-blog/blog/the-reused-abstractions-principle/</guid>
       <description>Your interfaces should be higher level generalised abstractions.</description>
     </item>
     
     <item>
       <title>The Reuse/Release Equivalency Principle</title>
-      <link>http://govenlock.com/blog/the-reuse-release-equivalency-principle/</link>
+      <link>https://alagalac.github.io/programming-blog/blog/the-reuse-release-equivalency-principle/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/blog/the-reuse-release-equivalency-principle/</guid>
+      <guid>https://alagalac.github.io/programming-blog/blog/the-reuse-release-equivalency-principle/</guid>
       <description>If you&amp;rsquo;re going to depend upon or reuse a piece of functionality, then it should be a released library.</description>
     </item>
     
     <item>
       <title>Keep It Simple Stupid</title>
-      <link>http://govenlock.com/blog/keep-it-simple-stupid/</link>
+      <link>https://alagalac.github.io/programming-blog/blog/keep-it-simple-stupid/</link>
       <pubDate>Wed, 25 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/blog/keep-it-simple-stupid/</guid>
+      <guid>https://alagalac.github.io/programming-blog/blog/keep-it-simple-stupid/</guid>
       <description>When writing software, simplicity beats cleverness every time.</description>
     </item>
     
     <item>
       <title>Occam&#39;s Razor</title>
-      <link>http://govenlock.com/blog/occams-razor/</link>
+      <link>https://alagalac.github.io/programming-blog/blog/occams-razor/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/blog/occams-razor/</guid>
+      <guid>https://alagalac.github.io/programming-blog/blog/occams-razor/</guid>
       <description>Always choose the solution with the fewest assumptions.</description>
     </item>
     
     <item>
       <title>The SOLID Principles</title>
-      <link>http://govenlock.com/blog/the-solid-principles/</link>
+      <link>https://alagalac.github.io/programming-blog/blog/the-solid-principles/</link>
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/blog/the-solid-principles/</guid>
+      <guid>https://alagalac.github.io/programming-blog/blog/the-solid-principles/</guid>
       <description>The SOLID priciples are a good guide for creating maintainable applications.</description>
     </item>
     
     <item>
       <title>Don&#39;t Repeat Yourself</title>
-      <link>http://govenlock.com/blog/dont-repeat-yourself/</link>
+      <link>https://alagalac.github.io/programming-blog/blog/dont-repeat-yourself/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/blog/dont-repeat-yourself/</guid>
+      <guid>https://alagalac.github.io/programming-blog/blog/dont-repeat-yourself/</guid>
       <description>In the application there should always be a single source of truth for how every piece of functionality should work.</description>
     </item>
     

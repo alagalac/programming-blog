@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gov&#39;s Programming Thoughts</title>
-    <link>http://govenlock.com/tags/</link>
+    <link>https://alagalac.github.io/programming-blog/tags/</link>
     <description>Recent content in Tags on Gov&#39;s Programming Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://govenlock.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alagalac.github.io/programming-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Security Principles</title>
-      <link>http://govenlock.com/tags/security-principles/</link>
+      <link>https://alagalac.github.io/programming-blog/tags/security-principles/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/tags/security-principles/</guid>
+      <guid>https://alagalac.github.io/programming-blog/tags/security-principles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Software Thoughts</title>
-      <link>http://govenlock.com/tags/software-thoughts/</link>
+      <link>https://alagalac.github.io/programming-blog/tags/software-thoughts/</link>
       <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/tags/software-thoughts/</guid>
+      <guid>https://alagalac.github.io/programming-blog/tags/software-thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maintainability Principles</title>
-      <link>http://govenlock.com/tags/maintainability-principles/</link>
+      <link>https://alagalac.github.io/programming-blog/tags/maintainability-principles/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/tags/maintainability-principles/</guid>
+      <guid>https://alagalac.github.io/programming-blog/tags/maintainability-principles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maintenance Principles</title>
-      <link>http://govenlock.com/tags/maintenance-principles/</link>
+      <link>https://alagalac.github.io/programming-blog/tags/maintenance-principles/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/tags/maintenance-principles/</guid>
+      <guid>https://alagalac.github.io/programming-blog/tags/maintenance-principles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Readability Principles</title>
-      <link>http://govenlock.com/tags/readability-principles/</link>
+      <link>https://alagalac.github.io/programming-blog/tags/readability-principles/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/tags/readability-principles/</guid>
+      <guid>https://alagalac.github.io/programming-blog/tags/readability-principles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SOLID Principles</title>
-      <link>http://govenlock.com/tags/solid-principles/</link>
+      <link>https://alagalac.github.io/programming-blog/tags/solid-principles/</link>
       <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/tags/solid-principles/</guid>
+      <guid>https://alagalac.github.io/programming-blog/tags/solid-principles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Debugability Principles</title>
-      <link>http://govenlock.com/tags/debugability-principles/</link>
+      <link>https://alagalac.github.io/programming-blog/tags/debugability-principles/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/tags/debugability-principles/</guid>
+      <guid>https://alagalac.github.io/programming-blog/tags/debugability-principles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maintainability Princplies</title>
-      <link>http://govenlock.com/tags/maintainability-princplies/</link>
+      <link>https://alagalac.github.io/programming-blog/tags/maintainability-princplies/</link>
       <pubDate>Mon, 08 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://govenlock.com/tags/maintainability-princplies/</guid>
+      <guid>https://alagalac.github.io/programming-blog/tags/maintainability-princplies/</guid>
       <description></description>
     </item>
     
