@@ -1,4 +1,4 @@
-baseURL = "http://govenlock.com/"
+baseURL = "https://alagalac.github.io/programming-blog/"
 languageCode = "en-us"
 title = "Gov's Programming Thoughts"
 theme = "hugo-principles"
